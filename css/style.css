@@ -3,3 +3,23 @@ body {
     margin: 0;
     font-family: 'Raleway', sans-serif;
 }
+
+/* Header */
+.title {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.title-inner {
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0 0 10px 0;
+}
+
+.title-inner h3 {
+    margin: 0;
+    font-style: italic;
+    font-weight: 100;
+}
